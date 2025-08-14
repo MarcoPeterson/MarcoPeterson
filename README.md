@@ -7,7 +7,7 @@
   <a href="mailto:mapeterson3@outlook.com"><img src="https://img.shields.io/badge/Email-contact%40outlook.com-informational" alt="Email" /></a>
 </p>
 
-# Hi there 👋 I'm Marco
+# Hi there! I'm Marco
 I’m a self-motivated, results-oriented **Data Scientist** with **5+ years** across retail, energy, and healthcare. I’ve built forecasting, segmentation, and predictive analytics that moved real metrics—e.g., improved forecasting accuracy by **68%** and reduced 30-day hospital readmissions by **15%**. :contentReference[oaicite:0]{index=0}
 
 <!-- Quick blurb -->
@@ -53,7 +53,6 @@ APIs/LLMs: **OpenAI API**, **Hugging Face**, general **LLM** integration
 - **M.S., Economic Data Analytics**, University of Texas at Arlington (2021)  
 - **B.S., Industrial & Organizational Psychology, Statistics**, Portland State University (2017)  
 - **B.A., Analytic Philosophy**, University of Alabama (2014)  
-:contentReference[oaicite:2]{index=2}
 
 ---
 
