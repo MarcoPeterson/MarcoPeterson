@@ -57,4 +57,4 @@ APIs/LLMs: **OpenAI API**, **Hugging Face**, general **LLM** integration
 ---
 
 ## 🧠 Interests
-Machine Learning · NLP/LLMs · Recommenders · Forecasting · Experiment Design · BI
+NLP/LLMs · Hugging Face · Whisper (Audio Analysis) · Agentic AI
