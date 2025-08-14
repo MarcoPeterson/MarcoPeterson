@@ -11,9 +11,9 @@
 I’m a self-motivated, results-oriented **Data Scientist** with **5+ years** across retail, energy, and healthcare. I’ve built forecasting, segmentation, and predictive analytics that moved real metrics—e.g., improved forecasting accuracy by **68%** and reduced 30-day hospital readmissions by **15%**. :contentReference[oaicite:0]{index=0}
 
 <!-- Quick blurb -->
-- 🔭 Recent focus: inventory forecasting, customer segmentation, and production ML
-- ⚙️ Tooling I like: Python, scikit-learn, XGBoost, PyTorch, TensorFlow, SQL, Snowflake
-- 📫 Reach me: **mapeterson3@outlook.com** · **[LinkedIn](https://www.linkedin.com/in/marco-peterson-5b1b63148/)**
+- Recent focus: inventory forecasting, customer segmentation, and production ML
+- Tooling I like: Python, scikit-learn, XGBoost, PyTorch, TensorFlow, SQL, Snowflake
+- Reach me: **mapeterson3@outlook.com** · **[LinkedIn](https://www.linkedin.com/in/marco-peterson-5b1b63148/)**
 
 ---
 
