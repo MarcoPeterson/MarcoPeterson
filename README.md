@@ -45,7 +45,7 @@ APIs/LLMs: **OpenAI API**, **Hugging Face**, general **LLM** integration
 - Predictive modeling cut **30-day readmissions by 15%** via early intervention  
 - Automated EHR data pipelines and reduced manual processing time **25%** (in 6 months)
 
-*(Summarized from my resume.)* :contentReference[oaicite:1]{index=1}
+*(Summarized from my resume.)* 
 
 ---
 
